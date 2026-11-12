@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ This Source Code Form is subject to the terms of the Mozilla Public
+  ~ License, v. 2.0. If a copy of the MPL was not distributed with this
+  ~ file, You can obtain one at https://mozilla.org/MPL/2.0/.
+  -->
+
+<resources>
+    <string name="move_here">Move here</string>
+    <string name="app_name">Cloud</string>
+    <string name="item_name_hint">Name</string>
+    <string name="app_name_notes">Notes</string>
+    <string name="app_name_music">Music</string>
+    <string name="app_name_photos">Photos</string>
+    <string name="app_name_web">Web</string>
+    <string name="app_name_ai">AI</string>
+    <string name="e2ee">End-to-End Encryption</string>
+</resources>
