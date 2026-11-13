@@ -6,6 +6,9 @@
   -->
 
 <resources>
+    <string name="icon_plus" translatable="false">&#xe90d;</string>
+    <string name="icon_file" translatable="false">&#xe905;</string>
+    <string name="icon_folder" translatable="false">&#xe90c;</string>
     <string name="icon_back" translatable="false">&#xe901;</string>
     <string name="icon_xmark" translatable="false">&#xe904;</string>
     <string name="icon_check" translatable="false">&#xe913;</string>

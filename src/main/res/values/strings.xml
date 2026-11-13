@@ -7,6 +7,9 @@
 
 <resources>
     <string name="move_here">Move here</string>
+    <string name="add">Add</string>
+    <string name="create_folder">Folder</string>
+    <string name="create_file">File</string>
     <string name="app_name">Cloud</string>
     <string name="item_name_hint">Name</string>
     <string name="app_name_notes">Notes</string>
@@ -15,4 +18,5 @@
     <string name="app_name_web">Web</string>
     <string name="app_name_ai">AI</string>
     <string name="e2ee">End-to-End Encryption</string>
+    <string name="files_title">Files</string>
 </resources>
